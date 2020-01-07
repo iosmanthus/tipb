@@ -609,6 +609,7 @@ enum ScalarFuncSig {
 	RTrim = 7042;
 	Repeat = 7043;
 	Replace = 7044;
+	ReplaceUTF8 = 7066;
 	ReverseUTF8 = 7045;
 	Reverse = 7046;
 	RightUTF8 = 7047;
